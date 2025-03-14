@@ -34,3 +34,9 @@
 # Example binaries
 **/build
 **/main
+
+# Raylib demo
+examples/raylib/5.5.tar
+examples/raylib/include
+examples/raylib/lib
+examples/raylib/raylib-5.5
